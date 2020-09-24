@@ -33,7 +33,7 @@
   "jest": {
     "preset": "react-native",
     "transformIgnorePatterns": [
-      "/node_modules/(?!@ui-kitten)"
+      "/node_modules/(?!@ui-kitten|react-native)"
     ]
   }
 }
